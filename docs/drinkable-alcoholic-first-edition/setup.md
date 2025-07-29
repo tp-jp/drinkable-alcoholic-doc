@@ -18,7 +18,7 @@ description: 飲めるお酒の詳細な導入方法と設定について
 
 ### 1. Unitypackage のインポート
 
-解凍した zip ファイルに同梱されている unitypackage を Unity にインポートします。
+解凍した zip ファイルに同梱されている `unitypackage` を Unity にインポートします。
 
 ### 2. Prefab の配置
 

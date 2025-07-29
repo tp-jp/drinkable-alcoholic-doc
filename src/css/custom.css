@@ -28,3 +28,20 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* カスタム：トップページのバナー背景のみを変更 */
+.hero--primary {
+  background: linear-gradient(135deg, #a11374 0%, #8a0e5f 100%);
+  background-attachment: fixed;
+}
+
+/* ダークモード時のバナー背景 */
+[data-theme='dark'] .hero--primary {
+  background: linear-gradient(135deg, #a11374 0%, #8a0e5f 100%);
+  background-attachment: fixed;
+}
+
+/* ダークモード時のロゴを白くする */
+[data-theme='dark'] .navbar__logo img {
+  filter: brightness(0) invert(1);
+}

@@ -23,12 +23,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: "かんたん導入",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: (
-      <>
-        UnityパッケージをインポートしてPrefabを配置するだけ。 Creator
-        Companion対応で最新のVRChat SDKに対応しています。
-      </>
-    ),
+    description: <>UnityパッケージをインポートしてPrefabを配置するだけ。</>,
   },
   {
     title: "PC/Quest対応",
@@ -36,6 +31,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         VRChatのPC版・Quest版の両方に対応。
+        <br />
         幅広いユーザーがワールドで「飲めるお酒」を楽しめます。
       </>
     ),
