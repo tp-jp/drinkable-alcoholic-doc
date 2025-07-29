@@ -1,0 +1,9 @@
+{
+  "label": "飲めるお酒",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "飲めるお酒",
+    "description": "手に持ってグラスを傾けると揺れ、さらに傾けると中身が減る「飲めるお酒」のドキュメント"
+  }
+}
