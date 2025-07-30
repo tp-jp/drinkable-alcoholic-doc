@@ -86,17 +86,7 @@ const config: Config = {
     },
     footer: {
       style: "dark",
-      links: [
-        {
-          title: "リンク",
-          items: [
-            {
-              label: "Booth",
-              href: "https://tp-lab.booth.pm/",
-            },
-          ],
-        },
-      ],
+      links: [],
       copyright: `Copyright © ${new Date().getFullYear()} TpLab, Inc. Built with Docusaurus.`,
     },
     prism: {

@@ -29,7 +29,6 @@ function HomepageHeader() {
             >
               ドキュメントを見る
             </Translate>
-            📖
           </Link>
         </div>
       </div>
