@@ -3,8 +3,12 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.飲めるお酒": {
+  "sidebar.tutorialSidebar.category.first-edition": {
     "message": "飲めるお酒",
-    "description": "The label for category 飲めるお酒 in sidebar tutorialSidebar"
+    "description": "The label for category first-edition in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.fourth-edition": {
+    "message": "飲めるお酒 FourthEdition",
+    "description": "The label for category fourth-edition in sidebar tutorialSidebar"
   }
 }

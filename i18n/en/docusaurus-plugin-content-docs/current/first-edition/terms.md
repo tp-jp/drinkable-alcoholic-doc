@@ -35,11 +35,3 @@ This product uses content created by the following third parties:
 **Mofcosmos**  
 Cooperation in models, textures, videos, etc.  
 **URL**: https://moff.booth.pm/
-
-## Contact
-
-For questions regarding terms of use and licenses, please contact us through the [BOOTH product page](https://tp-lab.booth.pm/items/3999585).
-
-:::info Other Support
-For technical support and usage instructions, see the [Support & Contact](./support) page.
-:::
