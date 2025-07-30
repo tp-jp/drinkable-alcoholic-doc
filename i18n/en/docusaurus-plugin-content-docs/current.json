@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.飲めるお酒": {
+    "message": "Drinkable Alcoholic",
+    "description": "The label for category 飲めるお酒 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.飲めるお酒.link.generated-index.title": {
+    "message": "Drinkable Alcoholic",
+    "description": "The generated-index page title for category 飲めるお酒 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.飲めるお酒.link.generated-index.description": {
+    "message": "Documentation for Drinkable Alcoholic - VRChat items that realistically simulate liquid physics when you tilt glasses and bottles.",
+    "description": "The generated-index page description for category 飲めるお酒 in sidebar tutorialSidebar"
+  }
+}

@@ -5,6 +5,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import Heading from "@theme/Heading";
+import Translate, { translate } from "@docusaurus/Translate";
 
 import styles from "./index.module.css";
 
@@ -22,7 +23,13 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/category/飲めるお酒"
           >
-            ドキュメントを見る 📖
+            <Translate
+              id="homepage.viewDocs"
+              description="The label for the documentation button on the homepage"
+            >
+              ドキュメントを見る
+            </Translate>
+            📖
           </Link>
         </div>
       </div>
@@ -35,7 +42,12 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="VRChatで楽しめる「飲めるお酒」の公式ドキュメント。リアルな物理演算でグラスを傾けると中身が揺れ、飲むことができるアイテムです。"
+      description={translate({
+        id: "homepage.description",
+        message:
+          "VRChatで楽しめる「飲めるお酒」の公式ドキュメント。リアルな物理演算でグラスを傾けると中身が揺れ、飲むことができるアイテムです。",
+        description: "The homepage description",
+      })}
     >
       <HomepageHeader />
       <main>

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.飲めるお酒": {
+    "message": "飲めるお酒",
+    "description": "The label for category 飲めるお酒 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.飲めるお酒.link.generated-index.title": {
+    "message": "飲めるお酒",
+    "description": "The generated-index page title for category 飲めるお酒 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.飲めるお酒.link.generated-index.description": {
+    "message": "手に持ってグラスを傾けると揺れ、さらに傾けると中身が減る「飲めるお酒」のドキュメント",
+    "description": "The generated-index page description for category 飲めるお酒 in sidebar tutorialSidebar"
+  }
+}

@@ -1,38 +1,76 @@
 import type { ReactNode } from "react";
 import clsx from "clsx";
 import Heading from "@theme/Heading";
+import Translate from "@docusaurus/Translate";
 import styles from "./styles.module.css";
 
 type FeatureItem = {
-  title: string;
+  title: string | ReactNode;
   Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "リアルな物理演算",
+    title: (
+      <Translate
+        id="homepage.features.physics.title"
+        description="Title for realistic physics feature"
+      >
+        リアルな物理演算
+      </Translate>
+    ),
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        手に持ってグラスを傾けると中身が揺れ、さらに傾けると実際に中身が減ります。
-        VRChatでリアルなお酒体験を楽しめます。
+        <Translate
+          id="homepage.features.physics.description"
+          description="Description for realistic physics feature"
+        >
+          手に持ってグラスを傾けると中身が揺れ、さらに傾けると実際に中身が減ります。
+          VRChatでリアルなお酒体験を楽しめます。
+        </Translate>
       </>
     ),
   },
   {
-    title: "かんたん導入",
+    title: (
+      <Translate
+        id="homepage.features.easy.title"
+        description="Title for easy setup feature"
+      >
+        かんたん導入
+      </Translate>
+    ),
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
-    description: <>UnityパッケージをインポートしてPrefabを配置するだけ。</>,
+    description: (
+      <Translate
+        id="homepage.features.easy.description"
+        description="Description for easy setup feature"
+      >
+        UnityパッケージをインポートしてPrefabを配置するだけ。
+      </Translate>
+    ),
   },
   {
-    title: "PC/Quest対応",
+    title: (
+      <Translate
+        id="homepage.features.crossplatform.title"
+        description="Title for cross-platform feature"
+      >
+        PC/Quest対応
+      </Translate>
+    ),
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        VRChatのPC版・Quest版の両方に対応。
-        <br />
-        幅広いユーザーがワールドで「飲めるお酒」を楽しめます。
+        <Translate
+          id="homepage.features.crossplatform.description"
+          description="Description for cross-platform feature"
+        >
+          VRChatのPC版・Quest版の両方に対応。
+          幅広いユーザーがワールドで「飲めるお酒」を楽しめます。
+        </Translate>
       </>
     ),
   },
