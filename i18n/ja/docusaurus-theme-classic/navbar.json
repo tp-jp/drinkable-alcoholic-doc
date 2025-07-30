@@ -8,11 +8,7 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Documentation": {
-    "message": "Documentation",
-    "description": "Navbar item with label Documentation"
-  },
-  "item.label.ドキュメント": {
     "message": "ドキュメント",
-    "description": "Navbar item with label ドキュメント"
+    "description": "Navbar item with label Documentation"
   }
 }

@@ -21,7 +21,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/category/飲めるお酒"
+            to="/docs/drinkable-alcoholic-first-edition/overview"
           >
             <Translate
               id="homepage.viewDocs"

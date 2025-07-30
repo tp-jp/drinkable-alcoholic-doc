@@ -18,51 +18,28 @@ You can try the actual product in the following world:
 https://vrchat.com/home/launch?worldId=wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2
 
 :::info Credits
+This product uses shaders and scripts by Joseph Kalathil for the liquids.
+https://gist.github.com/josephbk117/0ae30f1e4593a82fb6b6c27d620cddc3
 
-Special thanks to [@Ryu_VRC](https://twitter.com/Ryu_VRC) for setting up the trial world.
-
+This product is a collaboration with Mofcosmos (https://moff.booth.pm/).
+They have provided cooperation in models, textures, videos, etc.
 :::
 
 ## Features
 
-### Realistic Liquid Physics
+- The contents sway when you hold the glass in your hand and tilt it
+- The contents decrease when you hold the glass in your hand and tilt it further
+- You can pour into the glass by holding the bottle in your hand, pressing Use, and tilting it
 
-- **Swaying Effect**: The liquid sways realistically when you tilt the glass
-- **Consumption System**: The liquid level decreases as you drink
-- **Natural Movement**: Physics-based liquid simulation for authentic feel
+## Next Steps
 
-### Multi-Platform Support
+For detailed setup instructions, please see the following pages:
 
-- **PC Compatible**: Full feature support for VRChat PC
-- **Quest Compatible**: Optimized for VRChat Quest platform
-- **Cross-Platform**: Seamless experience across different devices
+- [Setup Guide](./setup) - Detailed introduction methods and operating environment
+- [Terms of Use](./terms) - Terms of use and license information
+- [Changelog](./changelog) - Version update information
 
-### Easy Integration
+## Booth Link
 
-- **Drag & Drop**: Simple installation process
-- **Customizable**: Adjustable settings for different use cases
-- **Performance Optimized**: Lightweight implementation for smooth gameplay
-
-## Package Contents
-
-This package includes:
-
-- Multiple glass types (Wine glass, Beer mug, Cocktail glass, etc.)
-- Various liquid types (Wine, Beer, Cocktails, etc.)
-- Prefabs ready for use
-- Complete setup documentation
-- Example scenes for reference
-
-## Technical Requirements
-
-### Minimum Requirements
-
-- Unity 2022.3.6f1 or later
-- VRChat SDK3 (Worlds)
-- Basic knowledge of Unity and VRChat world creation
-
-### Recommended Environment
-
-- Unity 2022.3.22f1
-- Latest VRChat SDK3
-- Familiarity with VRChat optimization guidelines
+Purchase the product from the following BOOTH page:  
+https://tp-lab.booth.pm/items/3999585

@@ -22,53 +22,24 @@ Please check the terms of use in each language from the following links:
 
 ## Third-party Licenses
 
-This product uses the following third-party assets and libraries:
+This product uses content created by the following third parties:
 
-### Unity Assets
+### Liquid Shader & Script
 
-- **Unity Standard Assets**: Used under Unity Asset Store End User License Agreement
-- **VRChat SDK**: Used under VRChat SDK License Agreement
+**Author**: Joseph Kalathil  
+**License**: MIT License  
+**URL**: https://gist.github.com/josephbk117/0ae30f1e4593a82fb6b6c27d620cddc3
 
-### Dependencies
+### Collaboration
 
-All third-party components are properly licensed and included within the package. No additional license agreements are required for end users.
+**Mofcosmos**  
+Cooperation in models, textures, videos, etc.  
+**URL**: https://moff.booth.pm/
 
-## License Summary
+## Contact
 
-### ✅ Permitted Uses
-
-- **Commercial Use**: You may use this product in commercial VRChat worlds
-- **Modification**: You may modify the assets for your specific needs
-- **Distribution**: You may include modified versions in your world uploads
-- **Streaming/Recording**: Content featuring this product may be streamed or recorded
-
-### ❌ Prohibited Uses
-
-- **Redistribution**: You may not redistribute the original asset files
-- **Reverse Engineering**: You may not attempt to extract or recreate the original assets
-- **Sublicensing**: You may not sublicense this product to others
-- **Standalone Sale**: You may not sell this product separately or as part of other asset packages
-
-### 📋 Requirements
-
-- **Attribution**: Credit is appreciated but not required
-- **Compliance**: Usage must comply with VRChat Community Guidelines and Terms of Service
-- **Updates**: Users are responsible for staying informed about license updates
-
-## Support and Contact
-
-For license-related questions or concerns:
-
-- Check the detailed license documents linked above
-- Contact the creator through the [BOOTH product page](https://tp-lab.booth.pm/items/3999585)
-- Refer to VN3 License official documentation
+For questions regarding terms of use and licenses, please contact us through the [BOOTH product page](https://tp-lab.booth.pm/items/3999585).
 
 :::info Other Support
 For technical support and usage instructions, see the [Support & Contact](./support) page.
 :::
-
-## Disclaimer
-
-This product is provided "as is" without warranty of any kind. The creator is not responsible for any damages or issues arising from the use of this product.
-
-Users are responsible for ensuring their usage complies with all applicable laws, platform terms of service, and community guidelines.
