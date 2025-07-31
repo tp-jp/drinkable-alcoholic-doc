@@ -14,6 +14,19 @@ description: 飲めるお酒の詳細な導入方法と設定について
 - VRChat SDK - Base 3.7.0 以上
 - VRChat SDK - World 3.7.0 以上
 
+## 前提アセット
+
+本商品を使用するには、以下のアセットが必要です：
+
+### Filamented Standard for Unity
+
+**作者**: s-ilent  
+**URL**: https://s-ilent.booth.pm/items/3250389
+
+:::warning 重要
+このアセットがインポートされていないと、マテリアルが正常に表示されない場合があります。先にインポートしてから本商品をインポートしてください。
+:::
+
 ## 導入手順
 
 ### 1. Unitypackage のインポート

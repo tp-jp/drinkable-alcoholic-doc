@@ -14,6 +14,19 @@ This page explains the detailed installation process for "Drinkable Alcoholic".
 - VRChat SDK - Base 3.7.0 or later
 - VRChat SDK - World 3.7.0 or later
 
+## Required Assets
+
+The following assets are required to use this product:
+
+### Filamented Standard for Unity
+
+**Author**: s-ilent  
+**URL**: https://s-ilent.booth.pm/items/3250389
+
+:::warning Important
+If this asset is not imported, materials may not display correctly. Please import this asset first before importing this product.
+:::
+
 ## Installation Steps
 
 ### 1. Import the Unitypackage
