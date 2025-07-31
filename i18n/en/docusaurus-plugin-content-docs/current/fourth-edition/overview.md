@@ -9,13 +9,13 @@ description: Documentation for "Drinkable Alcoholic" - liquid sways when you hol
 ## Overview
 
 "Drinkable Alcoholic" is an item where the liquid sways when you hold and tilt the glass, and decreases when tilted further.  
-This item can create an adult atmosphere with whiskey and various wines in relaxing worlds such as bars, lounges, and wine bars.  
+With its space-themed design, this item can create an adult atmosphere with whiskey and various wines in relaxing worlds such as bars, lounges, and wine bars.  
 Compatible with both VRChat PC and Quest.
 
 You can try the actual product in the following world:
 
-**XXXX**  
-https://vrchat.com/home/launch?worldId=wrld_XXXX
+**Private Jet Stream**  
+https://vrchat.com/home/world/wrld_d4a9ba9e-4270-4c9a-85a6-5c8f3b2e1cd5/info
 
 :::info Credits
 This product uses shaders and scripts by Joseph Kalathil for the liquid effects.

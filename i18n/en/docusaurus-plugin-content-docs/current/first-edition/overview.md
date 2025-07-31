@@ -15,7 +15,7 @@ Compatible with both PC and Quest versions of VRChat.
 You can try the actual product in the following world:
 
 **Starlight lane**  
-https://vrchat.com/home/launch?worldId=wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2
+https://vrchat.com/home/launch?worldId=wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2/info
 
 :::info Credits
 This product uses shaders and scripts by Joseph Kalathil for the liquids.

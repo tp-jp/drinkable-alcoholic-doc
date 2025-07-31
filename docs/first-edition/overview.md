@@ -15,7 +15,7 @@ VRChat の PC/Quest の両方に対応しています。
 下記のワールドで実際の商品をお試しいただけます。
 
 **Starlight lane**  
-https://vrchat.com/home/launch?worldId=wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2
+https://vrchat.com/home/launch?worldId=wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2/info
 
 :::info クレジット
 本商品の液体には Joseph Kalathil さんのシェーダーとスクリプトを使用しています。
