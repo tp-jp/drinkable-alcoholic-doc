@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
         リアルな物理演算
       </Translate>
     ),
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/undraw_wine-tasting_jnup.svg").default,
     description: (
       <>
         <Translate
@@ -42,7 +42,7 @@ const FeatureList: FeatureItem[] = [
         かんたん導入
       </Translate>
     ),
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/undraw_exciting-news_96pg.svg").default,
     description: (
       <Translate
         id="homepage.features.easy.description"
@@ -61,7 +61,7 @@ const FeatureList: FeatureItem[] = [
         PC/Quest対応
       </Translate>
     ),
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    Svg: require("@site/static/img/undraw_programming_65t2.svg").default,
     description: (
       <>
         <Translate
