@@ -16,9 +16,10 @@ By purchasing this product, you are deemed to have agreed to these terms of use.
 
 Please check the terms of use in each language from the following links:
 
-- [**Terms of use（English）**](https://drive.google.com/file/d/10x3d0obFzWXTFJ73-ckQFr93EM63UYpv/view?usp=sharing)
-- [**利用規約（日本語）**](https://drive.google.com/file/d/1b2ZNnNH2Gr56RvBghPeijMMIIc9HJjgO/view?usp=sharing)
-- [**이용규약（한국어）**](https://drive.google.com/file/d/1k_dKLvxuys17J67v0DO_7RRlEFWhWyxk/view?usp=sharing)
+- [**Terms of use（English）**](https://drive.google.com/file/d/18vPdtt1nxZ327__0JIunKnYCskhiFY_J/view?usp=drive_link)
+- [**利用規約（日本語）**](https://drive.google.com/file/d/1Y5oQLq4LXndF5mK84QTJP9t6eIH_gEgb/view?usp=sharing)
+- [**이용규약（한국어）**](https://drive.google.com/file/d/1jf9sF10mpuL3ceSEgMDvoc8ROifQpwTH/view?usp=drive_link)
+- [**使用条款（中文）**](https://drive.google.com/file/d/1NkQjG6k3Y0txDvXu_AMJ94n4DULNtiPj/view?usp=drive_link)
 
 ## Third-Party Licenses
 
