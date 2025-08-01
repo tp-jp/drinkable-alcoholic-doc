@@ -7,22 +7,23 @@ description: Version update history for Drinkable Alcoholic
 # Changelog
 
 :::info Latest Version
-The current latest version is **v2.0.0** (Released 2025-08-01)
+The current latest version is **v2.0.0**. (Released 2025-08-02)
 :::
 
-## v2.0.0 (2025-08-01) {#v200}
+## v2.0.0 (2025-08-02) {#v200}
 
 🚀 **Major Upgrade**
 
-- **Significant improvements to liquid shader**
+- Improved liquid shader
+- Enhanced texture quality for bottles and glasses
 
 ---
 
 ## v1.0.6 (2024-03-23) {#v106}
 
-🔧 **Fix**
+🔧 **Fixes**
 
-- Fixed issue where some textures did not have MipMap settings
+- Fixed issue where some textures were missing MipMap settings
 
 ---
 

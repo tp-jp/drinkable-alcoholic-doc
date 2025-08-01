@@ -7,10 +7,10 @@ description: Version update history for Drinkable Alcoholic
 # Changelog
 
 :::info Latest Version
-The current latest version is **v1.0.0**. (Released 2025-08-01)
+The current latest version is **v1.0.0**. (Released 2025-08-02)
 :::
 
-## v1.0.0 (2022-07-15) {#v100}
+## v1.0.0 (2025-08-02) {#v100}
 
 🎉 **Initial Release**
 
