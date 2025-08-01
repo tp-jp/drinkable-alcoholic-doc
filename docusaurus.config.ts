@@ -62,6 +62,16 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@docusaurus/plugin-google-gtag",
+      {
+        trackingID: "G-BRLLNW2XFQ",
+        anonymizeIP: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: "img/drinkable-alcoholic-social-card.png",
