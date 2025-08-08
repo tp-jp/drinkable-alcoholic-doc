@@ -14,8 +14,8 @@ VRChat の PC/Quest の両方に対応しています。
 
 下記のワールドで実際の商品をお試しいただけます。
 
-**Private Jet Stream**  
-https://vrchat.com/home/world/wrld_d4a9ba9e-4270-4c9a-85a6-5c8f3b2e1cd5/info
+**Starlight lane**  
+https://vrchat.com/home/world/wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2/info
 
 :::info クレジット
 本商品の液体には Joseph Kalathil さんのシェーダーとスクリプトを使用しています。

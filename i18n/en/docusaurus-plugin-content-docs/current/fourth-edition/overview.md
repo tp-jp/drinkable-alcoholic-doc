@@ -14,8 +14,8 @@ Compatible with both VRChat PC and Quest.
 
 You can try the actual product in the following world:
 
-**Private Jet Stream**  
-https://vrchat.com/home/world/wrld_d4a9ba9e-4270-4c9a-85a6-5c8f3b2e1cd5/info
+**Starlight lane**  
+https://vrchat.com/home/world/wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2/info
 
 :::info Credits
 This product uses shaders and scripts by Joseph Kalathil for the liquid effects.
