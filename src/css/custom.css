@@ -51,3 +51,8 @@
 [data-theme='dark'] .hero__subtitle {
   color: #e3e3e3 !important;
 }
+
+/* カテゴリの一時的な非表示 */
+.menu__list-item.hidden {
+  display: none !important;
+}
